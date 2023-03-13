@@ -1,0 +1,6 @@
+framework module Pods_PatEcommerceTests {
+  umbrella header "Pods-PatEcommerceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
